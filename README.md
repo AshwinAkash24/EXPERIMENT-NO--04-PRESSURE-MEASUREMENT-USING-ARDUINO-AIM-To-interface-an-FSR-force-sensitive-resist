@@ -1,4 +1,5 @@
-# EXPERIMENT-NO-04: PRESSURE MEASUREMENT USING ARDUINO AIM To interface an FSR force sensitive resistor.
+# EXPERIMENT-NO-03: PRESSURE MEASUREMENT USING ARDUINO AIM To interface an FSR force sensitive resistor.
+# Date: 2-03-2024
 # Name: M.Ashwin Akash.
 # Reference No:212223230024
 # Department: AI&DS
